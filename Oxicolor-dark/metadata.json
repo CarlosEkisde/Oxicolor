@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Carlis"
+            }
+        ],
+        "Category": "",
+        "Description": "Plasma theme based on Oxygen, Colorbit and other derived themes",
+        "Description[es]": "Tema de Plasma basado en Oxígeno, Colorbit y otros temas derivados",
+        "Description[it]": "Tema di Plasma basato su Oxygen, Colorbit e altri temi derivati",
+        "EnabledByDefault": true,
+        "Id": "oxicolor",
+        "License": "GPL",
+        "Name": "Oxicolor dark",
+        "Name[es]": "Oxicolor oscuro",
+        "Name[it]": "Oxicolor scuro",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}
