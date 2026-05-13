@@ -10,12 +10,12 @@
         "Description[es]": "Tema de Plasma basado en Oxígeno, Colorbit y otros temas derivados",
         "Description[it]": "Tema di Plasma basato su Oxygen, Colorbit e altri temi derivati",
         "EnabledByDefault": true,
-        "Id": "oxicolor",
+        "Id": "Oxicolor-dark",
         "License": "GPL",
         "Name": "Oxicolor dark",
         "Name[es]": "Oxicolor oscuro",
         "Name[it]": "Oxicolor scuro",
-        "Version": "1.0"
+        "Version": "1.4"
     },
     "X-Plasma-API": "5.0"
 }
